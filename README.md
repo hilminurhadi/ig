@@ -6,7 +6,7 @@
 	$ git clone https://github.com/hilminurhadi/ig
 	$ cd ig
 	$ unzip node_modules.zip
-  $ ls
+ 	$ ls
 	$ node [namafile].js
 
 ## Contributing
@@ -14,4 +14,4 @@
 	☆ Zerobyte.id - BC0DE.NET - NAONLAH.NET - WingKocoli.
 	☆ Thank you for the help of all members SGB TEAM REBORN (https://www.sgb.or.id/).
 	☆ Change Instagram API & Enter into Packages, add ITTYW in some tools and testing by officialputuid.
-  ☆ Add cldm, clt, cmtf, cmtu, flcdm and fldm by hilminurhadi . k{}enurf
+  	☆ Add cldm, clt, cmtf, cmtu, flcdm and fldm by hilminurhadi . k{}enurf
